@@ -1,0 +1,108 @@
+# Learn JavaScript - Full Course for Beginners (freeCodeCamp)
+
+**Video:** https://youtu.be/PkZNo7MFNFg
+**Instructor:** Beau Carnes
+**Source:** freeCodeCamp.org
+**Format:** 134-part full JavaScript course for beginners
+
+## 📌 About
+
+This course teaches everything needed to get started with JavaScript, from
+absolute basics to more advanced ES6+ concepts. It follows freeCodeCamp's
+official JavaScript curriculum, so it pairs well with the interactive coding
+challenges on their site.
+
+## 🛠️ Installation & Setup
+
+No special installation is required to start coding in JavaScript — it runs
+directly in the browser.
+
+1. **Text Editor**
+   Install [VS Code](https://code.visualstudio.com/) (free) or any code editor of your choice.
+
+2. **Browser**
+   Use Chrome or Firefox. Open Developer Tools (`F12` or right-click → Inspect)
+   and go to the **Console** tab to run JS instantly.
+
+3. **Node.js (optional)**
+   Install [Node.js](https://nodejs.org/) if you want to run `.js` files from
+   the terminal:
+   ```bash
+   node filename.js
+   ```
+
+4. **Practice Platform**
+   Create a free account on [freecodecamp.org](https://www.freecodecamp.org/)
+   to follow along with matching interactive coding challenges.
+
+5. **Project Setup**
+   Create a folder with an `index.html` file and a linked `script.js`:
+   ```html
+   <!DOCTYPE html>
+   <html>
+     <body>
+       <script src="script.js"></script>
+     </body>
+   </html>
+   ```
+
+## 📚 Topics Covered
+
+### 1. Fundamentals
+- Introduction & running JavaScript
+- Comments
+- Variables (`var`, `let`, `const`)
+- Assignment operators
+- Basic math (add, subtract, multiply, divide, increment/decrement, decimals, remainders, augmented operators)
+
+### 2. Strings
+- Declaring strings
+- Escaping quotes
+- Concatenation (`+`, `+=`)
+- String length & bracket notation
+- String methods
+
+### 3. Arrays
+- Declaring, accessing, modifying arrays
+- Array methods (`push`, `pop`, `shift`, `unshift`, `slice`, `splice`, etc.)
+- Nested arrays
+
+### 4. Functions
+- Declaring functions
+- Parameters & return values
+- Global vs. local scope
+- Functions working with arrays
+
+### 5. Logic & Control Flow
+- Booleans & comparison operators
+- `if / else` statements
+- Logical operators
+- `switch` statements
+- Loops (`while`, `for`, `do...while`)
+
+### 6. Objects
+- Declaring objects
+- Accessing & updating properties
+- Nested objects
+- Objects vs. arrays
+
+### 7. ES6+ / Advanced Topics
+- `let` / `const` vs `var`
+- Arrow functions
+- Default parameters
+- Rest & spread operators
+- Destructuring
+- Template literals
+- Classes
+- Modules
+- Promises / async basics
+
+### 8. DOM Manipulation
+- Selecting elements
+- Event listeners
+- Dynamically updating the page
+
+## ✅ How to Practice
+
+- Follow along in the video and write code in your editor or browser console.
+- Use [freeCodeCamp's JavaScript curriculum](https://www.freecodecamp.org/) for matching interactive challenges after each section.
